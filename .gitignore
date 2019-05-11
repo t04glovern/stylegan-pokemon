@@ -1,0 +1,11 @@
+stylegan/network-snapshot-007961.pkl
+stylegan/kaggle-one-shot-pokemon/
+stylegan/pokemon/
+stylegan/results/
+stylegan/datasets/
+
+__pycache__/
+
+
+.vscode/
+.ipynb_checkpoints/
