@@ -1,5 +1,7 @@
 # StyleGAN Pokemon
 
+![Example](example.png)
+
 ## Run
 
 ### Environment
