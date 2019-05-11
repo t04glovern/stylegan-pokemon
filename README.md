@@ -2,6 +2,13 @@
 
 ## Run
 
+### Environment
+
+```bash
+conda env create -f environment.yml
+conda activate stylegan-pokemon
+```
+
 ### Get Dataset
 
 ```bash
