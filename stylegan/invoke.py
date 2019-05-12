@@ -51,4 +51,4 @@ def make_movie(images, out_dir, out_name):
     os.system('rm -rf %s' % temp_dir)
 
 
-images, latents = random_sample(5, scale=10, output_file="../example.png")
+images, latents = random_sample(1, scale=10, output_file="../img/pokemon.png")

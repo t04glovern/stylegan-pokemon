@@ -4,6 +4,8 @@ stylegan/pokemon/
 stylegan/results/
 stylegan/datasets/
 
+img/pokemon.png
+
 __pycache__/
 
 

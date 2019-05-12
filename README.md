@@ -68,6 +68,12 @@ python train.py --data_dir=./data/ --seq_length=12
 python sample.py
 ```
 
+### Cropping
+
+```bash
+./cropper.sh "Pokemon Name"
+```
+
 ## Attribution
 
 * [One-Shot-Pokemon Images](https://www.kaggle.com/aaronyin/oneshotpokemon)
