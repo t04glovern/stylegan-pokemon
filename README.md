@@ -1,6 +1,6 @@
 # Pokemon Card Generator
 
-![Example](img/example.png)
+![Example](samples/pokemon.png)
 
 ## Run StyleGAN
 
