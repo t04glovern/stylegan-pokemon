@@ -17,7 +17,7 @@ POKEMON_ATK2_DESC="$5"
 CARD_TYPE=$(shuf -i 1-11 -n 1)
 
 # Trim 
-convert img/pokemon.1.png -trim img/pokemon.png
+convert img/pokemon.png -trim img/pokemon.png
 
 # Crop
 convert img/pokemon.png -resize 390x291^ -gravity Center -extent 390x291 -crop 390x291+25+0 img/pokemon.png

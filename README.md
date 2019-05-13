@@ -66,7 +66,7 @@ python train.py --data_dir=./data/pokemon --seq_length=12
 python train.py --data_dir=./data/moves --rnn_size=300 --seq_length=12
 
 # Description
-python train.py --data_dir=./data/desc --seq_length=50
+python train.py --data_dir=./data/desc --seq_length=25
 ```
 
 #### RNN Invoke
