@@ -59,7 +59,14 @@ ls -al data/input.txt
 #### RNN Training
 
 ```bash
-python train.py --data_dir=./data/ --seq_length=12
+# Pokemon
+python train.py --data_dir=./data/pokemon --seq_length=12
+
+# Moves
+python train.py --data_dir=./data/moves --rnn_size=300 --seq_length=12
+
+# Description
+python train.py --data_dir=./data/desc --seq_length=50
 ```
 
 #### RNN Invoke
@@ -71,7 +78,12 @@ python sample.py
 ### Cropping
 
 ```bash
-./cropper.sh "Pokemon Name"
+./cropper.sh \
+    "Pokemon Name" \
+    "Pokemon Attack 1" \
+    "Pokemon Attack Description 1" \
+    "Pokemon Attack 2" \
+    "Pokemon Attack Description 2"
 ```
 
 ## Attribution

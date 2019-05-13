@@ -1,0 +1,695 @@
+Pikachu-exclusive Z-Move.
+User recovers half the HP inflicted on opponent.
+User attacks first.
+May lower opponent's Special Defense.
+Sharply raises user's Defense.
+Poison type Z-Move.
+Sharply lowers opponent's Special Defense.
+Stronger when the user does not have a held item.
+Sharply raises a random stat.
+Ignores Accuracy and Evasiveness.
+High critical hit ratio.
+Gives target priority in the next turn.
+Sharply raises user's Speed.
+High critical hit ratio.
+May cause flinching.
+Fighting type Z-Move.
+User switches with opposite teammate.
+Sharply raises user's Special Defense.
+The user entangles the target with its anchor chain while attacking. The target becomes unable to flee.
+May raise all user's stats at once.
+User attacks first.
+Restores a little HP each turn.
+Hits 2-5 times in one turn.
+Cures all status problems in your party.
+Raises Special Defense of allies.
+User performs a move known by its allies at random.
+Power doubles if opponent already took damage in the same turn.
+May cause flinching.
+High critical hit ratio.
+If opponent is the opposite gender, it's less likely to attack.
+Ignores Accuracy and Evasiveness.
+May lower opponent's Attack.
+Halves damage from Physical and Special attacks for five turns.
+Reduces weight and sharply raises Speed.
+Power doubles if user took damage first.
+Always goes first. Lowers the target's attack.
+Reduces damage from Physical attacks.
+Protects the user and poisons opponent on contact.
+Hits 2-5 times in one turn.
+Sharply raises user's Defense.
+User switches out and gives stat changes to the incoming Pokémon.
+The user first heats up its beak, and then it attacks the target. Making direct contact with the Pokémon while it's heating up its beak results in a burn.
+Each Pokémon in your party attacks.
+User must have consumed a Berry.
+User loses 50% of its max HP, but Attack raises to maximum.
+Gives the user's held item to the target.
+User takes damage for two turns then strikes back double.
+Traps opponent, damaging them for 4-5 turns.
+May cause flinching.
+Dark type Z-Move.
+User must recharge next turn.
+High critical hit ratio. May burn opponent.
+May freeze opponent.
+Opponent cannot flee or switch.
+Grass type Z-Move.
+May burn opponent.
+May paralyze opponent.
+May paralyze opponent.
+May cause flinching.
+Hits 2-5 times in one turn.
+Hits twice in one turn.
+Hits all adjacent Pokémon.
+Springs up on first turn, attacks on second. May paralyze opponent.
+User recovers half the HP inflicted on opponent.
+User receives recoil damage.
+Normal type Z-Move.
+Breaks through Reflect and Light Screen barriers.
+Power doubles if opponent's HP is less than 50%.
+The user swings its body around violently to inflict damage on everything in its vicinity.
+May lower opponent's Speed.
+May lower opponent's Speed.
+Receives the effect from the opponent's held berry.
+May lower opponent's Special Defense.
+Raises user's Attack and Defense.
+Lowers opponent's Speed.
+User attacks first.
+Hits 2-5 times in one turn.
+To inflict massive damage, the user burns itself out. After using this move, the user will no longer be Fire type.
+Paralyzes the opponent.
+Raises user's Special Attack and Special Defense.
+Changes user's type according to the location.
+Sharply lowers opponent's Special Attack if opposite gender.
+Pikachu-exclusive Z-Move.
+The Pokémon congratulates you on your special day. No battle effect.
+Raises user's Special Defense and next Electric move's power increases.
+May raise user's Special Attack.
+Sharply lowers opponent's Attack.
+Confuses opponent.
+Ignores opponent's stat changes.
+In battles, the opponent switches. In the wild, the Pokémon runs.
+Traps opponent, damaging them for 4-5 turns.
+Lowers user's Defense.
+Kommo-o exclusive Z-Move.
+Removes all of the target's stat changes.
+Lowers user's Defense and Special Defense.
+Raises user's Attack, Defense and Accuracy.
+Hits 2-5 times in one turn.
+Lowers opponent's Special Attack.
+Confuses opponent.
+May confuse opponent.
+May lower opponent's Speed by one stage.
+Rock type Z-Move.
+Changes user's type to that of its first move.
+User changes type to become resistant to opponent's last move.
+Copies opponent's last move.
+Scorches a 'Z' pattern on the ground.
+Steel type Z-Move.
+Raises user's Defense and Special Defense.
+Drastically raises user's Defense.
+Sharply lowers opponent's Speed.
+When hit by a Physical Attack, user strikes back with 2x power.
+Opponent's item is stolen by the user.
+High critical hit ratio.
+Protects the Pokémon from status moves.
+High critical hit ratio.
+High critical hit ratio. May poison opponent.
+May lower opponent's Defense.
+May lower opponent's Defense.
+More powerful when opponent has higher HP.
+Ghosts lose 50% of max HP and curse the opponent; Non-Ghosts raise Attack, Defense and lower Speed.
+May cause flinching.
+Puts all adjacent opponents to sleep.
+Ignores opponent's stat changes.
+Hits all adjacent opponents.
+Raises user's Defense and Special Defense.
+Raises user's Defense.
+Lowers opponent's Evasiveness and clears fog.
+If the user faints, the opponent also faints.
+Protects the user, but may fail if used consecutively.
+Dragon type Z-Move.
+May raise user's Defense
+Digs underground on first turn, attacks on second. Can also escape from caves.
+Opponent can't use its last attack for a few turns.
+Ignores Accuracy and Evasiveness.
+May paralyze opponent.
+Dives underwater on first turn, attacks on second turn.
+May confuse opponent.
+Damage occurs 2 turns later.
+Hits twice in one turn.
+Hits twice in one turn; may cause flinching.
+Hits twice in one turn.
+Hits 2-5 times in one turn.
+Raises user's Evasiveness.
+User receives recoil damage.
+Sharply lowers user's Special Attack.
+Lowers user's Defense and Special Defense.
+May paralyze opponent.
+Raises user's Attack and Speed.
+The user uses its body like a hammer to attack the target and inflict damage.
+Always inflicts 40 HP.
+May cause flinching.
+In battles, the opponent switches. In the wild, the Pokémon runs.
+User recovers half the HP inflicted on opponent.
+User recovers most the HP inflicted on opponent.
+User recovers half the HP inflicted on a sleeping opponent.
+High critical hit ratio.
+Hits twice in one turn.
+Confuses opponent.
+May lower opponent's Special Defense.
+Power is doubled if opponent is underground from using Dig.
+Power increases each turn.
+Sharply lowers opponent's Special Attack.
+Prevents all Pokémon from falling asleep for 5 turns.
+Changes the target's move to Electric type.
+The faster the user, the stronger the attack.
+Lowers opponent's Speed.
+Opponent cannot use items.
+May burn opponent.
+Forces opponent to keep using its last move for 3 turns.
+Reduces opponent's HP to same as user's.
+Always left with at least 1 HP, but may fail if used consecutively.
+May lower opponent's Special Defense.
+Makes target's ability same as user's.
+Stronger when the user's HP is higher.
+User faints.
+May cause flinching.
+Eevee-exclusive Z-Move. Sharply raises all stats.
+User attacks first.
+Power doubles if user is burned, poisoned, or paralyzed.
+Prevents fleeing in the next turn.
+User attacks first, foe flinches. Only usable on first turn.
+Sharply lowers opponent's Special Defense.
+Always leaves opponent with at least 1 HP.
+Sharply lowers opponent's Attack.
+Only hits if opponent uses Protect or Detect in the same turn.
+Ignores Accuracy and Evasiveness.
+Drastically raises user's Attack if target is KO'd.
+May raise user's Special Attack.
+Inflicts damage equal to the user's remaining HP. User faints.
+May burn opponent.
+May cause flinching and/or burn opponent.
+The user strikes the target with a burning lash. This also lowers the target's Defense stat.
+Added effects appear if combined with Grass Pledge or Water Pledge.
+May burn opponent.
+Traps opponent, damaging them for 4-5 turns.
+Although this move has great power, it only works the first turn the user is in battle.
+One-Hit-KO, if it hits.
+The lower the user's HP, the higher the power.
+May also injure nearby Pokémon.
+Raises user's Speed.
+May burn opponent.
+May burn opponent.
+User receives recoil damage. May burn opponent.
+Lowers opponent's Accuracy.
+May lower opponent's Special Defense.
+Confuses opponent, but raises its Special Attack by two stages.
+Sharply lowers user's Special Attack.
+Power depends on held item.
+May cause flinching.
+The user restores the target's HP by up to half of its max HP. It restores more HP when the terrain is grass.
+Sharply raises Defense of all Grass-type Pokémon on the field.
+Flies up on first turn, attacks on second turn.
+Deals Fighting and Flying type damage.
+May lower opponent's Special Defense.
+Increases critical hit ratio.
+If the user is hit before attacking, it flinches instead.
+In Double Battle, the user takes all the attacks.
+May paralyze opponent.
+Resets opponent's Evasiveness, Normal-type and Fighting-type attacks can now hit Ghosts, and Ghost-type attacks hit Normal.
+Adds Grass type to opponent.
+Uses the opponent's Attack stat.
+Charges on first turn, attacks on second. May paralyze opponent.
+May freeze opponent. Super-effective against Water types.
+Resets all stat changes.
+User must recharge next turn.
+Always results in a critical hit.
+Power decreases with higher Friendship.
+Hits 2-5 times in one turn.
+Power increases each turn.
+Hits 2-5 times in one turn.
+Power increases if Fusion Flare is used in the same turn.
+Power increases if Fusion Bolt is used in the same turn.
+Damage occurs 2 turns later.
+Cancels out the effect of the opponent's Ability.
+Hits twice in one turn.
+The user engages its gears to raise the Attack and Sp. Atk stats of ally Pokémon with the Plus or Minus Ability.
+Mew-exclusive Z-Move.
+Charges on first turn, sharply raises user's Sp. Attack, Sp. Defense and Speed on the second.
+User recovers half the HP inflicted on opponent.
+User must recharge next turn.
+Electric type Z-Move.
+Lowers opponent's Speed.
+Paralyzes opponent.
+Reduces damage from Special attacks.
+The heavier the opponent, the stronger the attack.
+Added effects appear if preceded by Water Pledge or succeeded by Fire Pledge.
+Puts opponent to sleep.
+Restores a little HP of all Pokémon for 5 turns.
+Prevents moves like Fly and Bounce and the Ability Levitate for 5 turns.
+Lowers opponent's Attack.
+Raises user's Attack and Special Attack.
+If the users faints after using this move, the PP for the opponent's last move is depleted.
+Averages Defense and Special Defense with the target.
+User and opponent swap Defense and Special Defense.
+Tapu-exclusive Z-move. Cuts opponent's HP by 75%.
+One-Hit-KO, if it hits.
+May poison opponent.
+Hits Pokémon using Fly/Bounce with double power.
+The slower the user, the stronger the attack.
+Non-Ice types are damaged for 5 turns.
+Lowers user's Speed.
+Doubles prize money from trainer battles.
+Raises user's Defense.
+Resets all stat changes.
+User receives recoil damage.
+User receives recoil damage.
+May cause flinching.
+Heals the user's party's status conditions.
+Prevents the opponent from restoring HP for 5 turns.
+User recovers half its max HP.
+Restores half the target's max HP.
+The user faints and the next Pokémon released is fully healed.
+May cause flinching.
+Stat changes are swapped with the opponent.
+The heavier the user, the stronger the attack.
+May burn opponent.
+The heavier the user, the stronger the attack.
+In Double Battles, boosts the power of the partner's move.
+Inflicts more damage if the target has a status condition.
+Type and power depends on user's IVs.
+The user fiercely attacks the target using its entire body.
+If it misses, the user loses half their HP.
+Always leaves opponent with at least 1 HP.
+Makes the user and an ally very happy.
+Raises user's Attack and Accuracy.
+One-Hit-KO, if it hits.
+User recovers half the HP inflicted on opponent.
+Raises user's Attack.
+May confuse opponent.
+User must recharge next turn.
+Water type Z-Move.
+User must recharge next turn.
+May cause flinching.
+Lowers user's Defense. Can strike through Protect/Detect.
+Can strike through Protect/Detect.
+Puts opponent to sleep.
+Doubles in power each turn for 5 turns.
+May freeze opponent.
+Charges on first turn, attacks on second. May burn opponent.
+May cause flinching and/or freeze opponent.
+The user swings and hits with its strong, heavy fist. It lowers the user's Speed, however.
+May freeze opponent.
+User attacks first.
+May cause flinching.
+Hits 2-5 times in one turn.
+Lowers opponent's Speed.
+Opponent is unable to use moves that the user also knows.
+Destroys the target's held berry.
+Burns opponent.
+Fire type Z-Move.
+Traps opponent, damaging them for 4-5 turns.
+User restores HP each turn. User cannot escape/switch.
+Allows an ally to use a move instead.
+Changes Normal-type moves to Electric-type.
+Sharply raises user's Defense.
+May cause flinching.
+May lower opponent's Defense.
+Type depends on the Arceus Plate being held.
+If it misses, the user loses half their HP.
+High critical hit ratio.
+Lowers opponent's Accuracy.
+Protects the user and lowers opponent's Attack on contact.
+Removes opponent's held item for the rest of the battle.
+User's next attack is guaranteed to result in a critical hit.
+Can only be used after all other moves are used.
+May burn opponent.
+High critical hit ratio.
+Sharply lowers user's Special Attack.
+May lower opponent's Accuracy.
+Strikes opponent with leaves.
+User recovers half the HP inflicted on opponent.
+Drains HP from opponent each turn.
+Lowers opponent's Defense.
+Mimikyu-exclusive Z-Move.
+May paralyze opponent.
+User receives recoil damage.
+Halves damage from Special attacks for 5 turns.
+Ultra Necrozma-exclusive Z-Move. Ignores target's ability; uses highest Attack stat.
+The user slams into the target using a full-force blast of water. This may also lower the target's Defense stat.
+User's next attack is guaranteed to hit.
+Puts opponent to sleep.
+The heavier the opponent, the stronger the attack.
+Lowers opponent's Speed.
+Opponent cannot land critical hits for 5 turns.
+The user faints but the next Pokémon released is fully healed.
+The user makes a lunge at the target, attacking with full force. This also lowers the target's Attack stat.
+May lower opponent's Special Defense.
+User attacks first.
+Reflects moves that cause status conditions back to the attacker.
+Suppresses the effects of held items for five turns.
+Ignores Accuracy and Evasiveness.
+Traps opponent, damaging them for 4-5 turns.
+Ignores Accuracy and Evasiveness.
+User becomes immune to Ground-type moves for 5 turns.
+Raises Defense and Sp. Defense of Plus/Minus Pokémon.
+Hits with random power.
+Incineroar-exclusive Z-Move.
+Protects teammates from damaging moves.
+User copies the opponent's attack with 1.5× power.
+Opponent cannot flee or switch.
+Raises user's Attack.
+User recovers half the HP inflicted on opponent.
+User faints, sharply lowers opponent's Attack and Special Attack.
+Lunala-exclusive Z-Move.
+Deals damage equal to 1.5x opponent's attack.
+May raise user's Attack.
+Sharply lowers opponent's Special Defense.
+May raise user's Attack.
+User performs almost any move in the game at random.
+User recovers half its max HP.
+Copies the opponent's last move.
+User receives recoil damage.
+User's next attack is guaranteed to hit.
+Sharply raises user's Evasiveness.
+Resets opponent's Evasiveness, removes Dark's Psychic immunity.
+When hit by a Special Attack, user strikes back with 2x power.
+User performs the opponent's last move.
+May lower opponent's Accuracy.
+User's stats cannot be changed for a period of time.
+May lower opponent's Special Attack.
+Protects the field from status conditions for 5 turns.
+May lower opponent's Special Attack.
+Ignores the target's ability.
+User recovers HP. Amount varies with the weather.
+User recovers HP. Amount varies with the weather.
+May lower opponent's Accuracy.
+Lowers opponent's Speed.
+Weakens the power of Electric-type moves.
+Lowers opponent's Accuracy.
+May lower opponent's Accuracy.
+Type matches user's current type.
+Lowers opponent's Special Attack.
+Sharply raises user's Special Attack.
+Power and type depend on the user's held berry.
+Uses a certain move based on the current terrain.
+Halves the foe's HP.
+May cause flinching.
+Ghost type Z-Move.
+May lower opponent's Accuracy.
+Inflicts damage equal to user's level.
+High critical hit ratio.
+The sleeping opponent loses 25% of its max HP each turn.
+Lowers opponent's Attack and Special Attack.
+Paralyzes opponent.
+User recovers most of the HP inflicted on opponent.
+Primarina-exclusive Z-Move.
+May lower opponent's Accuracy.
+Resets opponent's Evasiveness, Normal-type and Fighting-type attacks can now hit Ghosts, and Ghost-type attacks hit Normal.
+May raise all user's stats at once.
+Hits all adjacent opponents.
+User attacks for 2-3 turns but then becomes confused.
+Sharply lowers user's Special Attack.
+The user's and opponent's HP becomes the average of both.
+User recovers half the HP inflicted on opponent.
+Lowers opponent's Attack and Special Attack then switches out.
+A small amount of money is gained after the battle resolves.
+Power doubles if the user was attacked first.
+Any Pokémon in play when this attack is used faints in 3 turns.
+Hits all adjacent Pokémon.
+User attacks for 2-3 turns but then becomes confused.
+Disappears on first turn, attacks on second. Can strike through Protect/Detect.
+Uses Attack or Special Attack stat, whichever is higher.
+Power increases when player's bond is stronger.
+Hits 2-5 times in one turn.
+Changes Normal-type moves to Electric-type moves.
+Lowers opponent's Attack. Always hits.
+May lower opponent's Attack.
+If the opponent is holding a berry, its effect is stolen by user.
+May badly poison opponent.
+Poisons opponent.
+May poison the opponent.
+Poisons opponent.
+May poison the opponent.
+High critical hit ratio. May poison opponent.
+The user attacks the enemy with a pollen puff that explodes. If the target is an ally, it gives the ally a pollen puff that restores its HP instead.
+Damages Pokémon using Fire type moves.
+May freeze opponent.
+Averages Attack and Special Attack with the target.
+User and opponent swap Attack and Special Attack.
+User's own Attack and Defense switch.
+The user boasts its strength and attacks the target. The more the user's stats are raised, the greater the move's power.
+Raises Attack.
+Hits all adjacent opponents.
+Either deals damage or heals.
+The user shoots powerful lasers using the power of a prism. The user can't move on the next turn.
+Protects the user, but may fail if used consecutively.
+May confuse opponent.
+Copies the opponent's stat changes.
+May lower opponent's Special Defense.
+The user bites the target with its psychic capabilities. This can also destroy Light Screen and Reflect.
+Prevents priority moves from being used for 5 turns.
+Sharply lowers user's Special Attack.
+High critical hit ratio.
+Gives the opponent the user's status condition, if it hits.
+Inflicts damage based on the target's Defense, not Special Defense.
+Inflicts damage based on the target's Defense, not Special Defense.
+Inflicts damage 50-150% of user's level.
+Snorlax-exclusive Normal type Z-Move.
+Power increases when opponent's stats have been raised.
+The user heals the target's status condition. If the move succeeds, it also restores the user's own HP.
+Double power if the opponent is switching out.
+Makes the target act last this turn.
+User attacks first.
+Protects the user's team from high-priority moves.
+Raises user's Special Attack, Special Defense and Speed.
+Raises user's Attack when hit.
+Forces attacks to hit user, not team-mates.
+Makes it rain for 5 turns.
+Removes effects of trap moves.
+High critical hit ratio.
+May lower opponent's Defense.
+Charges on first turn, attacks on second. High critical hit ratio.
+User recovers half its max HP.
+User's used hold item is restored.
+Halves damage from Physical attacks for 5 turns.
+User becomes the target's type.
+Cures paralysis, poison, and burns.
+May put the target to sleep.
+User sleeps for 2 turns, but user is fully healed.
+Inflicts double damage if a teammate fainted on the last turn.
+Power increases with higher Friendship.
+Type changes based on Oricorio's form.
+Power increases if user was hit first.
+The lower the user's HP, the higher the power.
+In battles, the opponent switches. In the wild, the Pokémon runs.
+User must recharge next turn.
+Hits 2-5 times in one turn.
+May confuse opponent.
+Sharply raises user's Speed.
+May cause flinching.
+May lower opponent's Defense.
+Lowers opponent's Speed.
+User must recharge next turn.
+User copies the opponent's Ability.
+May cause flinching.
+Doubles in power each turn for 5 turns.
+User recovers half of its max HP and loses the Flying type temporarily.
+Raises Attack and Special Attack of Grass-types.
+Power increases if teammates use it in the same turn.
+May burn opponent.
+Ignores opponent's stat changes.
+The user's party is protected from status conditions.
+Lowers opponent's Accuracy.
+Traps opponent, damaging them for 4-5 turns.
+Creates a sandstorm for 5 turns.
+Drains HP from opponent each turn.
+Bug type Z-Move.
+May burn opponent.
+Sharply lowers opponent's Speed.
+Sharply lowers opponent's Defense.
+May burn opponent.
+Solgaleo-exclusive Z-Move.
+Effects of the attack vary with the location.
+Inflicts damage based on the target's Defense, not Special Defense.
+May lower opponent's Special Defense.
+Inflicts damage equal to user's level.
+User faints.
+May lower opponent's Special Defense.
+The user attacks by beating the target with a bone that contains a spirit. This may also lower the target's Defense stat.
+High critical hit ratio.
+Disappears on first turn, attacks on second. Can strike through Protect/Detect.
+Ignores Accuracy and Evasiveness.
+User attacks first.
+Raises user's Attack.
+Psychic type Z-Move.
+One-Hit-KO, if it hits.
+Sharply raises user's Attack, Special Attack and Speed but lowers Defense and Special Defense.
+Deals more damage to opponent if hit by a Physical move.
+Raises user's Attack and sharply raises Speed.
+Ignores Accuracy and Evasiveness.
+The user regains up to half of its max HP. It restores more HP in a sandstorm.
+May confuse opponent.
+May raise all stats of user at once.
+Changes target's ability to Simple.
+Puts opponent to sleep.
+Decidueye-exclusive Z-Move.
+Burns the opponent.
+Permanently copies the opponent's last move.
+The user swaps Abilities with the opponent.
+Raises Defense on first turn, attacks on second.
+Charges on first turn, attacks on second. May cause flinching.
+Takes opponent into the air on first turn, drops them on second turn.
+Hits the opponent, even during Fly.
+User recovers half its max HP.
+High critical hit ratio.
+Puts opponent to sleep.
+User performs one of its own moves while sleeping.
+May poison opponent.
+May poison opponent.
+May poison opponent.
+Makes Flying-type Pokémon vulnerable to Ground moves.
+The user stabs the target with a sharp horn. This attack never misses.
+Power doubles if opponent is paralyzed, but cures it.
+May poison opponent.
+Lowers opponent's Accuracy.
+Lowers opponent's Special Attack.
+Steals the effects of the opponent's next move.
+Can only be used if asleep. May cause flinching.
+Changes the target's type to water.
+User recovers half its max HP.
+Charges on first turn, attacks on second.
+Charges on first turn, attacks on second.
+Always inflicts 20 HP.
+Marshadow-exclusive Z-Move.
+High critical hit ratio.
+May paralyze opponent.
+Heals the burns of its target.
+Cures all status problems in the party Pokémon.
+The user hides in the target's shadow, steals the target's stat boosts, and then attacks.
+The user exchanges Speed stats with the target.
+Opponent cannot escape/switch.
+Hits 2-5 times in one turn.
+Hurts opponents when they switch into battle.
+Protects the user and inflicts damage on contact.
+Prevents the opponent switching out.
+Power depends on how many times the user performed Stockpile.
+The opponent's last move loses 2-5 PP.
+Doesn't do ANYTHING.
+Lycanroc-exclusive Z-Move.
+May paralyze opponent.
+Puts opponent to sleep.
+The user shines a spotlight on the target so that only the target will be attacked during the turn.
+Damages opponent switching into battle.
+May burn opponent.
+May cause flinching.
+May raise user's Defense.
+Lowers opponent's Speed when switching into battle.
+Stores energy for use with Spit Up and Swallow.
+Alolan Raichu-exclusive Electric type Z-Move.
+May cause flinching.
+Driven by frustration, the user attacks the target. If the user's previous move has failed, the power of this move doubles.
+High critical hit ratio.
+Power increases when user's stats have been raised.
+Always results in a critical hit.
+The user restores its HP by the same amount as the target's Attack stat. It also lowers the target's Attack stat.
+Sharply lowers opponent's Speed.
+Only usable when all PP are gone. Hurts the user.
+Lowers opponent's Special Attack.
+Paralyzes opponent.
+User receives recoil damage.
+Uses HP to creates a decoy that takes hits.
+Ice type Z-Move.
+User attacks first, but only works if opponent is readying an attack.
+Makes it sunny for 5 turns.
+Ignores the target's ability.
+Always takes off half of the opponent's HP.
+Lowers user's Attack and Defense.
+Confuses opponent.
+Flying type Z-Move.
+Hits all adjacent Pokémon.
+Opponent becomes confused, but its Attack is sharply raised.
+The more times the user has performed Stockpile, the more HP is recovered.
+Confuses opponent.
+Lowers opponent's Evasiveness.
+Ignores Accuracy and Evasiveness.
+Swaps held items with the opponent.
+Sharply raises user's Attack.
+Hits any Pokémon that shares a type with the user.
+User recovers HP. Amount varies with the weather.
+Drastically raises user's Special Attack.
+Hits 2-5 times in one turn.
+Lowers opponent's Defense.
+Doubles Speed for 4 turns.
+User receives recoil damage.
+Opponent can only use moves that attack.
+The user gets teary eyed to make the target lose its combative spirit. This lowers the target's Attack and Sp. Atk stats.
+Type depends on the Drive being held.
+Ground type Z-Move.
+Confuses all Pokémon.
+Ignores opponent's Evasiveness for three turns, add Ground immunity.
+Allows user to flee wild battles; also warps player to last PokéCenter.
+Also steals opponent's held item.
+Makes Flying-type Pokémon vulnerable to Ground moves.
+Opponent cannot flee or switch.
+User attacks for 2-3 turns but then becomes confused.
+Prevents use of sound moves for two turns.
+May paralyze opponent.
+May cause flinching and/or paralyze opponent.
+May paralyze opponent.
+May paralyze opponent.
+Paralyzes opponent.
+May paralyze opponent.
+Lowers opponent's Attack and Defense.
+Reverses stat changes of opponent.
+Opponent cannot use the same move in a row.
+Badly poisons opponent.
+Poisons opponents when they switch into battle.
+The user shoots poisonous threads to poison the target and lower the target's Speed stat.
+User takes on the form and attacks of the opponent.
+May paralyze, burn or freeze opponent.
+Swaps held items with the opponent.
+Slower Pokémon move first in the turn for 5 turns.
+Adds Ghost type to opponent.
+Hits thrice in one turn at increasing power.
+Lowers opponent's Attack.
+The lower the PP, the higher the power.
+Hits twice in one turn. May poison opponent.
+Fairy type Z-Move.
+May cause flinching. Hits Pokémon using Fly/Bounce with double power.
+User switches out immediately after attacking.
+User attacks for 3 turns and prevents sleep.
+Lowers user's Defense, Special Defense and Speed.
+User attacks first.
+Power increases when player's bond is stronger.
+Lowers poisoned opponent's Special Attack and Speed.
+Inflicts double damage if the target is poisoned.
+User attacks last, but ignores Accuracy and Evasiveness.
+User must switch out after attacking.
+User receives recoil damage. May paralyze opponent.
+Power doubles if opponent is asleep, but wakes it up.
+Added effects appear if preceded by Fire Pledge or succeeded by Grass Pledge.
+May confuse opponent.
+Hits 2-5 times in one turn.
+Weakens the power of Fire-type moves.
+The higher the user's HP, the higher the damage caused.
+May cause flinching.
+Move's power and type changes with the weather.
+Traps opponent, damaging them for 4-5 turns.
+In battles, the opponent switches. In the wild, the Pokémon runs.
+Protects the user's team from multi-target attacks.
+User receives recoil damage.
+Burns opponent.
+The user recovers HP in the following turn.
+Raises user's Defense.
+Swaps every Pokémon's Defense and Special Defense for 5 turns.
+User receives recoil damage.
+Raises user's Attack and Special Attack.
+Changes the opponent's Ability to Insomnia.
+Traps opponent, damaging them for 4-5 turns.
+The higher the opponent's HP, the higher the damage.
+Puts opponent to sleep in the next turn.
+Paralyzes opponent.
+May cause flinching.
+A strong electric blast crashes down on the target, giving it an electric shock. This may also make the target flinch.
+High critical-hit ratio.
