@@ -1,5 +1,7 @@
 # Pokemon Card Generator
 
+Generating Pokemon cards using a mixture of StyleGAN and RNN to create beautiful & vibrant cards ready for battle!
+
 ![Example](samples/pokemon.png)
 
 ## Run StyleGAN
