@@ -39,14 +39,16 @@ Using the `network-final.pkl` under the most recent entry in the [stylegan/resul
 
 ```bash
 python invoke.py \
-    --model_file './results/00000-sgan-custom-1gpu/network-final.pkl'
+    --model_file './results/00000-sgan-custom-1gpu/network-final.pkl' \
+    --output_file '../img/pokemon1.png'
 ```
 
 #### StyleGAN Invoke [Pre-trained]
 
 ```bash
 python invoke.py \
-    --model_file './network-snapshot-007961.pkl'
+    --model_file './network-snapshot-007961.pkl' \
+    --output_file '../img/pokemon2.png'
 ```
 
 #### StyleGAN Invoke [MichaelFriese10](https://twitter.com/MichaelFriese10/status/1127614400750346240)
@@ -54,7 +56,8 @@ python invoke.py \
 ```bash
 aws s3 cp s3://devopstar/resources/stylegan-pokemon/MichaelFriese10_pokemon.pkl MichaelFriese10_pokemon.pkl
 python invoke.py \
-    --model_file './MichaelFriese10_pokemon.pkl'
+    --model_file './MichaelFriese10_pokemon.pkl' \
+    --output_file '../img/pokemon3.png'
 ```
 
 ## Run RNN
@@ -120,12 +123,17 @@ python sample.py \
 ### Cropping
 
 ```bash
+# Define all fields adhoc
 ./cropper.sh \
     "Pokemon Name" \
     "Pokemon Attack 1" \
     "Pokemon Attack Description 1" \
     "Pokemon Attack 2" \
-    "Pokemon Attack Description 2"
+    "Pokemon Attack Description 2" \
+    "img/pokemon1.png" # Path to input image
+
+# Random
+./cropper-shuffle.sh "img/pokemon1.png" # Path to input image
 ```
 
 ## Attribution

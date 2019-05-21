@@ -1,23 +1,23 @@
 #!/bin/sh
 
-POKEMON_NAME="$1"
+POKEMON_NAME="$(shuf -n 1 samples/pokemon.txt)"
 
-POKEMON_ATK1="$2"
+POKEMON_ATK1="$(shuf -n 1 samples/moves.txt)"
 POKEMON_ATK1_TYPE=$(shuf -i 1-11 -n 1)
 POKEMON_RANDOM_POW1=$(shuf -i 1-20 -n 1)
 POKEMON_POW1=$(echo $(( 10 * $POKEMON_RANDOM_POW1 )))
-POKEMON_ATK1_DESC="$3"
+POKEMON_ATK1_DESC="$(shuf -n 1 samples/desc.txt)"
 
-POKEMON_ATK2="$4"
+POKEMON_ATK2="$(shuf -n 1 samples/moves.txt)"
 POKEMON_ATK2_TYPE=$(shuf -i 1-11 -n 1)
 POKEMON_RANDOM_POW2=$(shuf -i 1-20 -n 1)
 POKEMON_POW2=$(echo $(( 10 * $POKEMON_RANDOM_POW2 )))
-POKEMON_ATK2_DESC="$5"
+POKEMON_ATK2_DESC="$(shuf -n 1 samples/desc.txt)"
 
 CARD_TYPE=$(shuf -i 1-11 -n 1)
 
 # Trim 
-convert $6 -trim img/pokemon.png
+convert $1 -trim img/pokemon.png
 
 # Crop
 convert img/pokemon.png -resize 390x291^ -gravity Center -extent 390x291 -crop 390x291+25+0 img/pokemon.png
