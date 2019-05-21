@@ -130,10 +130,14 @@ python sample.py \
     "Pokemon Attack Description 1" \
     "Pokemon Attack 2" \
     "Pokemon Attack Description 2" \
-    "img/pokemon1.png" # Path to input image
+    "img/pokemon1.png"
 
 # Random
-./cropper-shuffle.sh "img/pokemon1.png" # Path to input image
+./cropper-shuffle.sh \
+    "samples/pokemon.txt" \
+    "samples/moves.txt" \
+    "samples/desc.txt" \
+    "img/pokemon1.png"
 ```
 
 ## Attribution
