@@ -1,3 +1,4 @@
+import argparse
 import os
 import pickle
 import numpy as np
@@ -10,9 +11,14 @@ import dnnlib.tflib as tflib
 import config
 from tqdm import tqdm_notebook as tqdm
 
+parser = argparse.ArgumentParser()
+parser.add_argument('--model_file', help='.pkl model to load', default='./results/00000-sgan-custom-1gpu/network-final.pkl')
+parser.add_argument('--output_file', help='.png file and location where to save output', default='../img/pokemon.png')
+args = parser.parse_args()
+
 tflib.init_tf()
 
-model = './results/00000-sgan-custom-1gpu/network-final.pkl'
+model = args.model_file
 
 with open(model, 'rb') as f:
     _G, _D, Gs = pickle.load(f)
@@ -38,17 +44,4 @@ def random_sample(num_images, scale, output_file):
     return images, latents
 
 
-def make_movie(images, out_dir, out_name):
-    temp_dir = 'frames%06d' % int(1000000*random.random())
-    os.system('mkdir %s' % temp_dir)
-    for idx in tqdm(range(len(images))):
-        PIL.Image.fromarray(images[idx], 'RGB').save(
-            '%s/frame%05d.png' % (temp_dir, idx))
-    cmd = 'ffmpeg -i %s/frame%%05d.png -c:v libx264 -pix_fmt yuv420p %s/%s.mp4' % (
-        temp_dir, out_dir, out_name)
-    print(cmd)
-    os.system(cmd)
-    os.system('rm -rf %s' % temp_dir)
-
-
-images, latents = random_sample(1, scale=10, output_file="../img/pokemon.png")
+images, latents = random_sample(1, scale=10, output_file=args.output_file)
