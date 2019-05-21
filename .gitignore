@@ -7,9 +7,11 @@ stylegan/datasets/
 
 img/pokemon.png
 img/pokemon*.png
+img/pokemon/
 
 __pycache__/
 
+gen.sh
 
 .vscode/
 .ipynb_checkpoints/

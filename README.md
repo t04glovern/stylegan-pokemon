@@ -4,6 +4,8 @@ Generating Pokemon cards using a mixture of StyleGAN and RNN to create beautiful
 
 ![Example](samples/pokemon.png)
 
+Demo: [https://thesepokemondonotexist.com](https://thesepokemondonotexist.com)
+
 ## Run StyleGAN
 
 ### StyleGAN Environment
@@ -146,7 +148,14 @@ python sample.py \
     "samples/pokemon.txt" \
     "samples/moves.txt" \
     "samples/desc.txt" \
-    "img/pokemon1.png"
+    "img/pokemon3.png"
+```
+
+### Web Hosting
+
+```bash
+aws s3 mb s3://thesepokemondonotexist.com
+aws s3 cp index.html s3://thesepokemondonotexist.com/index.html
 ```
 
 ## Attribution
