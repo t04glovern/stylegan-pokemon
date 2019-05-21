@@ -78,19 +78,43 @@ ls -al data/input.txt
 
 ```bash
 # Pokemon
-python train.py --data_dir=./data/pokemon --seq_length=12
+python train.py \
+    --data_dir=./data/pokemon \
+    --save_dir=./save/pokemon \
+    --seq_length=12
 
 # Moves
-python train.py --data_dir=./data/moves --rnn_size=300 --seq_length=12
+python train.py \
+    --data_dir=./data/moves \
+    --save_dir=./save/moves \
+    --rnn_size=300 \
+    --seq_length=12
 
 # Description
-python train.py --data_dir=./data/desc --seq_length=25
+python train.py \
+    --data_dir=./data/desc \
+    --save_dir=./save/desc \
+    --seq_length=25
 ```
 
 #### RNN Invoke
 
 ```bash
-python sample.py
+# Pokemon
+python sample.py \
+    --save_dir=./save/pokemon \
+    --output_dir=../samples/pokemon.txt
+
+# Moves
+python sample.py \
+    --save_dir=./save/moves \
+    --output_dir=../samples/moves.txt
+
+# Description
+python sample.py \
+    --save_dir=./save/desc \
+    --output_dir=../samples/desc.txt \
+    -n=1500
 ```
 
 ### Cropping

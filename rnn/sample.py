@@ -21,6 +21,8 @@ parser.add_argument('--prime', type=text_type, default=u'',
 parser.add_argument('--sample', type=int, default=1,
                     help='0 to use max at each timestep, 1 to sample at '
                          'each timestep, 2 to sample on spaces')
+parser.add_argument('--output_dir', type=str, default='./output.txt',
+                    help='Output file to save the resulting generated text')
 
 args = parser.parse_args()
 
@@ -44,7 +46,9 @@ def sample(args):
             saver.restore(sess, ckpt.model_checkpoint_path)
             data = model.sample(sess, chars, vocab, args.n, args.prime,
                                args.sample).encode('utf-8')
-            print(data.decode("utf-8"))
+            f = open(args.output_dir,'w+')
+            f.write(data.decode("utf-8"))
+            f.close()
 
 if __name__ == '__main__':
     sample(args)
