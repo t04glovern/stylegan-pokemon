@@ -1,12 +1,12 @@
 name: stylegan-pokemon
 dependencies:
-  - python==3.6
+  - python=3.6
   - pip
-  - tensorflow-gpu
-  - tensorboard
-  - jupyter
   - pip:
     - Pillow
+#    - tensorflow==1.14.0 # CPU support
+    - tensorflow-gpu==1.14.0
+    - awscli
     - matplotlib
     - requests
     - numpy
